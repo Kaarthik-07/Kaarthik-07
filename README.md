@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaarthik-07&label=Profile%20views&color=0e75b6&style=flat" alt="kaarthik-07" /> </p>
 
-- 🔭 I’m currently working on **AWS**
-
-- 🌱 I’m currently learning **Devops**
+- 🔭 I’m currently working on **Devops**
 
 - 👯 I’m looking to collaborate on **Reak-world Projects and Internship**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kaarthik-07](https://github.com/Kaarthik-07)
-  
-- * 🖥️  See my designs at [Figma](http://https://www.figma.com/files/drafts?fuid=1232215701578143559)
+- 🖥️  See my designs at [Figma](http://https://www.figma.com/files/drafts?fuid=1232215701578143559)
 
 - 💬 Ask me about **Web and design**
 

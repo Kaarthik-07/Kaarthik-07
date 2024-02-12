@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Devops**
 
-- 👯 I’m looking to collaborate on **Reak-world Projects and Internship**
+- 👯 I’m looking to collaborate on **Real-world Projects and Internship**
 
 - 🖥️  See my designs at [Figma](https://www.figma.com/files/drafts?fuid=1232215701578143559)
 

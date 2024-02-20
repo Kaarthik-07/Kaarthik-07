@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaarthik</h1>
-<h3 align="center">I love code and design</h3>
+<h3 align="center">code and design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaarthik-07&label=Profile%20views&color=0e75b6&style=flat" alt="kaarthik-07" /> </p>
 

@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Real-world Projects and Internship**
 
-- 🖥️  See my designs at [Figma](https://www.figma.com/files/drafts?fuid=1232215701578143559)
-
 - 💬 Ask me about **Web and design**
 
 - 📫 How to reach me **kaarthik.s.professional@gmail.com**

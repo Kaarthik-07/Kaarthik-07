@@ -77,4 +77,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaarthik-07&show_icons=true&locale=en" alt="kaarthik-07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaarthik-07&" alt="kaarthik-07" /></p>
